@@ -1,0 +1,15 @@
+body{
+    background-color: rgba(50, 5, 92, 0.911);
+}
+.navbar{
+    width: 200vw;
+    height: 60px;
+    background-color: rgba(138, 165, 42, 0.966);
+    margin: 20px 40px 20px 150px;
+    color: rgb(1, 7, 12);
+    font-size: 24px;
+    font-weight: 900;
+    text-align: center;
+    border-radius: 50px;
+    border: solid 2px ;
+}
