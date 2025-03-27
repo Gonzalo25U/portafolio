@@ -1,0 +1,19 @@
+body{
+    background-color: rgba(12, 8, 16, 0.911);
+    background-image: url('356986.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+.navbar{
+    width: 100vw;
+    color: black;
+    height: 60px;
+    background-color: rgba(138, 165, 42, 0.966);
+    margin: 20px 40px 20px 20px;
+    font-size: 24px;
+    font-weight: 900;
+    text-align: center;
+    border-radius: 50px;
+    border: solid 5px ;
+    font-family: Arial, sans-serif;
+}
